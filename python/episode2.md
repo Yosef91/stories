@@ -25,7 +25,7 @@ print looked at them and wrote, "who are you?"
 
 "who are we!!??" said attribute
 
-"syntax" said syntax as he through a box at print.
+"syntax" said syntax as he tied print to the wall
 
 "attribute" said attribute.
 
