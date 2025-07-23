@@ -6,7 +6,7 @@ print was looking at the map, when little did he know, he was bieng watched from
 
 "if he almost got arrested, he's a perfect fit for the Syntax Syndicate !" said the first person
 
-print was looking at the map and noticed that the quickest way to strings land was through a cave, then through a garden, and then climbing the worlds highest mountain.
+print was looking at the map and noticed that the quickest way to strings land was through a cave, then through a meadow, and then climbing the worlds highest mountain.
 the slower but probably safer option was walking around the mountain.
 
 well, the differences of the distance to string land between each option were huge.
