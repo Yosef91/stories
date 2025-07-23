@@ -16,7 +16,10 @@ print noticed the faster he would get his strings and perenthasies, the faster h
 
 print started going through the cave. It was pretty normal. he was walking through when he heard laughing followed by the words
 
-“When your tabs don’t line and your code’s a mess…, When that one-off error brings you stress…, When variables vanish into the night…, And loops just loop with no end in sight…, We are the Syntax Syndicate  — breaking your build, one bug at a time!, Hide your scripts. Save your files. We run this runtime."
+"I'm Syntax, the ultimate code breaker. A mismatched bracket here, a rogue semicolon there, and your script is mine to ruin.", said one of them
+"I'm Attribute, and I love watching developers get stuck in a loop trying to figure out why I won't let them access that non-existent attribute." said another
+"I'm Indent, and I'm all about messing with the spacing. One wrong indent, and your code is toast." said another
+
 
 print looked at them and wrote, "who are you?"
 
@@ -25,6 +28,8 @@ print looked at them and wrote, "who are you?"
 "syntax" said syntax as he through a box at print.
 
 "attribute" said attribute.
+
+"indent" said indent
 
 "hey, whats the big deal!" print wrote on the paper
 
