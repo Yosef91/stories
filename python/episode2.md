@@ -38,15 +38,6 @@ print looked at them and wrote, "who are you?"
 
 "indent, turn on the mind control!" said attribute
 
-"okey dokey" said indent "you shall now obey are every command!"
-
-print closed his eyes
-
-"not today" said a voice
-
-print opened his eyes and saw the machine was broken, he was also freed from the box.
-
-"whats going on!" said the the Syntax Syndicate
 
 
 
