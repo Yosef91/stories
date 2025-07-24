@@ -8,4 +8,17 @@ print looked around but saw no bridge. thats when he heard laughing
 
 right at that moment, print felt the ground rumbling and before he knew it, he had fallen into a whole. print looked up and saw three ints laughing. print wrote whats going on to them, and they finnally answered.
 
-01110111 01101000 01101111 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 said the ints
+167 150 157 40 141 162 145 40 171 157 165 said the ints
+
+"where are your quetation marks" wrote print
+
+167 145 40 144 157 156 47 164 40 156 145 145 144 40 161 165 145 164 141 164 151 157 156 40 155 141 162 153 163 54 40 167 145 40 141 162 145 40 151 156 164 163 said the ints
+
+"answer in english for once!!" wrote print
+
+167 145 40 143 141 156 40 157 156 154 171 40 164 141 154 153 40 157 143 164 141 154 said the ints
+
+"what?" wrote print
+
+
+
