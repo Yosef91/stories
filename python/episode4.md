@@ -20,5 +20,22 @@ right at that moment, print felt the ground rumbling and before he knew it, he h
 
 "what?" wrote print
 
+print looked to the side and saw a screen.
 
+he told the ints to say what it is.
 
+151 164 163 40 141 40 164 162 141 156 163 154 141 164 157 162 said the ints
+
+print looked at the screen and saw it now wrote the words "its a translator"
+
+thats when print noticed it was a translator.
+
+print wrote them the words where is a bridge and the ints answered.
+
+print looked at the screen and it said that in the whole he was in there was a secret door that has a bridge.
+
+print looked but he never found a door...
+
+he found 3 buttons.
+
+one down button, one up button, and one self destruct button.
