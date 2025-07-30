@@ -4,7 +4,7 @@ print closed his eyes
 
 "not today" said a voice
 
-print opened his eyes and saw the machine was broken, he was also freed from the box.
+print opened his eyes and saw the machine was broken, he was also untied from the wall.
 
 "whats going on!" said the the Syntax Syndicate
 
