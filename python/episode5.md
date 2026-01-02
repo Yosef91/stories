@@ -21,10 +21,22 @@ he looked around and saw a big branch that had fallen to the ground. print put i
 
 he tried to keep his balance as he crossed. he was about to get to the other side when the branch fell. luckily he was able to hold on to the side of the edge, but it was really hard to push himself up.
 
-he couldn't just be like this forever, he'd lose his grip and fall. thats when something grabbed his arm from above. he looked up and saw someone he'd never seen before. "hy there, my name is variable." said the guy. he helped pull print up.
+he couldn't just be like this forever, he'd lose his grip and fall. thats when something grabbed his arm from above. he looked up and saw someone he'd never seen before. he helped pull print up.
 
-"why are you here" wrote print. "ive come to save input" said variable.
+"why are you here?" wrote print.
 
-"I know input!!" wrote print "he saved me from the syntax syndacate!"
+you see, variable couldn't exactly talk. he had strings, but variables cant talk. they must be used.
 
-"and I'm here to save him" said variable.
+so he wrote on his OWN paper, "I cant talk. I have strings and all, but I need to be working with another piece of code."
+
+"can you work together with me?" wrote print
+
+"yes" wrote variable.
+
+"I CAN TALK!!!!!" said print and variable together.
+
+they had merged. variable was now part of print. when print finds strings, they will dismerge.
+
+all of the sudden, print felt he had another mission...
+
+he had to save input.
